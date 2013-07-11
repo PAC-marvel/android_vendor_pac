@@ -132,3 +132,5 @@ add_lunch_combo pac_tate-userdebug
 add_lunch_combo pac_jem-userdebug
 # Huawei
 add_lunch_combo pac_u8800pro-userdebug
+#htc-armv6
+add_lunch_combo pac_marvel-userdebug
