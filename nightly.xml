@@ -86,5 +86,6 @@
   <device name="venturi_usa" priority="10" />
   <device name="vs920" priority="10" />
   <device name="yuga" priority="10" />
+  <device name="marvel" priority="10" />
 
 </manifest>
