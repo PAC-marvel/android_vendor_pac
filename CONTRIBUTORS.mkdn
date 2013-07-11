@@ -79,8 +79,9 @@ Device Maintainers:
 * vertigo2012 (Mako)
 * Wechy77 (urushi)
 * zyonee (mako, grouper)
+* crossfire77 (marvel)
 
-Total Devices: 111
+Total Devices: 112
 
 Best regards
      szl.kiev
